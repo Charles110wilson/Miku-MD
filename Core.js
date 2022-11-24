@@ -4752,7 +4752,7 @@ Here's the list of my Commands.
 
 speak, Hinata, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
- *━━━〈  🎀 Ɲᴇꪎꪎᴇʀ 🎀  〉━━━*
+ *━━━〈  🎀 Owner 🎀  〉━━━*
 
 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
@@ -4814,7 +4814,7 @@ qr, say, translate, fliptext, toletter, weather
 
 
  『  *${global.BotName}*  』
- Powered by: *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ*
+ Powered by: *𝙲𝚑𝚊𝚛𝚕𝚎𝚜*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
