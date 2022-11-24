@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['916003951523']
-global.OwnerNumber = ['916003951523']
-global.ownertag = ['916003951523']
+global.Owner = ['2347088615406']
+global.OwnerNumber = ['2347088615406']
+global.ownertag = ['2347088615406']
 global.BotName = "Ｈｉｎａｔａ💘"
 global.packname = " ▀▄▀▄ Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ ▄▀▄▀ "
 global.author = "ㅤ"
-global.OwnerName = "Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ"
+global.OwnerName = "𝐂𝐡𝐚𝐫𝐥𝐞𝐬⚡"
 global.BotSourceCode = "https://chat.whatsapp.com/ExBAn7bi0zrDq3aSXH3Obf"
 global.SupportGroupLink = "https://chat.whatsapp.com/ExBAn7bi0zrDq3aSXH3Obf"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "West Bengal, India"
+global.location = "Asia , Nigeria"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
